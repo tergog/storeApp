@@ -1,1 +1,1 @@
-# storeApp
+# storeApp using MEAN stack
